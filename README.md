@@ -2,8 +2,7 @@
 
 Goal: For my data curation and analysis project I wanted to gather the list of the most populated cites in the United States and create vizuliations for the top 50 most populated cites. I created two graphs that gave me intutive summaries and understanding of the population growth and patterns in the country. 
 
-Data Types: int = Population and Rank 
-            String = Name and State
+Data Types: int = Population and Rank | String = Name and State
 
 This approach simplifies the dataset and narrows my scope to the most populous cities, enabling exploration of trends, patterns, or comparisons related to these specific columns. By concentrating on these key attributes, we can gain valuable insights into the dynamics and characteristics of the most populous cities, such as their growth prospects and their rankings relative to one another.
 
